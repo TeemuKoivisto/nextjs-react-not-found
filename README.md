@@ -1,4 +1,6 @@
-# next.js React not found
+# Next.js React not found
+
+For issue https://github.com/vercel/next.js/issues/20266
 
 Steps to reproduce:
 1) Install and build `local-module` with: `cd local-module && yarn && yarn build`
