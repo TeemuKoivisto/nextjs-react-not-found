@@ -16,3 +16,5 @@ You should see now the following error message:
 What makes this more weird, is that moving the local-module to the same folder as `nextjs-app` and linking it in the previous manner doesn't cause that error.
 
 With any old regular React this setup will work. Dunno why it doesn't with next.js.
+
+I added the `cra-app` to showcase how it should work.
